@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hiển thị</string>
+    <string name="explore">Khám phá</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="hello_kiet">Chào Kiệt</string>
+    <string name="shoping_place">Nơi mua sắm</string>
+    <string name="this_is_random_text_taking_from_lorem_ipsum_tesing_puspose">Đây là văn bản ngẫu nhiên với mục đích thử nghiệm</string>
+    <string name="get_started">Bắt đầu</string>
+    <string name="next">Kế tiếp</string>
+    <string name="setting">Cài đặt</string>
+    <string name="choose_languge">Chọn ngôn ngữ</string>
+</resources>

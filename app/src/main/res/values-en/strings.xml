@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ViewPage</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="hello_kiet">Hello Kiet</string>
+    <string name="shoping_place">Shopping Place</string>
+    <string name="this_is_random_text_taking_from_lorem_ipsum_tesing_puspose">This is random text taking from lorem ipsum testing purpose</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="setting">Setting</string>
+    <string name="choose_languge">Choose Language...</string>
+</resources>

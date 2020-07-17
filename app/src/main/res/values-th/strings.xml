@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">สวัสดีค่ะ</string>
+    <string name="explore">ค้นพบ</string>
+    <string name="search">ค้นหา</string>
+    <string name="favorite">ที่ชื่นชอบ</string>
+    <string name="hello_kiet">สวัสดี Kiet</string>
+    <string name="shoping_place">ห้างสรรพสินค้า</string>
+    <string name="this_is_random_text_taking_from_lorem_ipsum_tesing_puspose">นี่คือข้อความสุ่มสำหรับการทดสอบ</string>
+    <string name="get_started">เริ่ม</string>
+    <string name="next">ต่อไป</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="choose_languge">เลือกภาษา</string>
+</resources>
